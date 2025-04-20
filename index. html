@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>منصة كيّس</title>
+  <style>
+    body {
+      background-color: #f5f5f5;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 100px;
+      direction: rtl;
+    }
+    h1 {
+      color: #4CAF50;
+    }
+    p {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>مرحباً بكم في منصة كيّس!</h1>
+  <p>هذا مثال بسيط لصفحة رئيسية باستخدام GitHub Pages.</p>
+</body>
+</html>
